@@ -6,5 +6,5 @@ Description : A platform that allows users to create, view, edit, and delete rec
 - Admins have full access to create, edit, and delete recipes, but must log in first.
 - Guests can only view recipes on the platform.  
 
-Link video demo:
+Link video demo: https://youtu.be/fQ0yoixSlvo
 
